@@ -25,8 +25,3 @@ to clear all the container
 ______________________
 `docker system prune`
 ______________________
-
-to clear all the container and all the images and all the volumes
-______________________________
-`docker system prune --rmi -v`
-______________________________
