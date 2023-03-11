@@ -1,6 +1,12 @@
-to run docker-compose use this command \n
+to run docker-compose use this command 
+____________________
 `docker-compose up`\n
-to delete the container run this command \n
-`docker-compose down`\n
-to delete container and all images created by docker compose run this command\n
+_____________________
+to delete the container run this command 
+_____________________
+`docker-compose down`
+___________________
+to delete container and all images created by docker compose run this command
+__________________________________
 `docker-compose down --rmi all -v`
+_________________________________
