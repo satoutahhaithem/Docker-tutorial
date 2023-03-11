@@ -1,6 +1,6 @@
 to run docker-compose use this command 
 ____________________
-`docker-compose up`\n
+`docker-compose up`
 _____________________
 to delete the container run this command 
 _____________________
